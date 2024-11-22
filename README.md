@@ -1,4 +1,5 @@
-1.  Copy and paste this file into
+1.  Copy and paste `inputBinding.xml`
+ into
     `%USERPROFILE%\Documents\My Games\FarmingSimulator2025`
 
 
