@@ -4,6 +4,6 @@
 
 2.  The controls are shown on the images:
 
-3.  
+  
     ![crane](Images/CraneControls_Img.png)
     ![crane](Images/ForkliftControls_Img.png)
