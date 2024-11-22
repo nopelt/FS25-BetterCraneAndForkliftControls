@@ -1,5 +1,5 @@
 1.  Copy and paste this file into
-    <span style="color:red; font-weight:bold;"> %USERPROFILE%\Documents\My Games\FarmingSimulator2025 </span>
+    <span style="color:red;"> %USERPROFILE%\Documents\My Games\FarmingSimulator2025 </span>
 
 
 2.  The controls are shown on the images:
